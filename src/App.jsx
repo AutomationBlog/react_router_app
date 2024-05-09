@@ -6,7 +6,7 @@ import Career from "./components/content/career.jsx";
 import DataScience from "./components/content/contentDataScience.jsx";
 import CyberSecurity from "./components/content/contentCyberSecurity.jsx";
 
-import course from "./components/courseContent.json";
+// import course from "./components/courseContent.json";
 
 function App() {
   return (

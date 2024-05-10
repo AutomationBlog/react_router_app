@@ -1,0 +1,12 @@
+.active{
+    font-weight: bold;
+    border-bottom: 4px solid aquamarine;
+}
+
+li:hover{
+     background-color: aquamarine;
+}
+
+a{
+    color: green;
+}

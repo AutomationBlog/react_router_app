@@ -1,46 +1,45 @@
-{
-    "courseContent": [
-        {
-            "id": "FSD001",
-            "title": "Full Stack Development",
-            "description": "MERN Stack",
-            "category": "FSD",
-            "image": "FSD_FSD.webp"
-        },
-        {
-            "id": "FSD002",    
-            "title": "Frontend Development",
-            "description": "UI/UX",
-            "category": "FSD",
-            "image": "FSD_Frontend.webp"
-        },
-        {
-            "id": "FSD003",    
-            "title": "Backend Development",
-            "description": "Database",
-            "category": "FSD",
-            "image": "FSD_Backend.webp"
-        },
-        {
-            "id": "DS001",    
-            "title": "Data Science",
-            "description": "Data Analysis",
-            "category": "DS",
-            "image": "DS_DataScience.webp"
-        },
-        {
-            "id": "DS002",    
-            "title": "Python",
-            "description": "Advanced Python",
-            "category": "DS",
-            "image": "DS_Python.webp"
-        },
-        {
-            "id": "CS001",    
-            "title": "Cyber Security",
-            "description": "Basic Cyber Security",
-            "category": "CS",
-            "image": "CS_CyberSecurity.webp"
-        }
-    ]
-}
+
+[
+    {
+        "id": "FSD001",
+        "title": "Full Stack Development",
+        "description": "MERN Stack",
+        "category": "FSD",
+        "image": "./FSD_FSD.webp"
+    },
+    {
+        "id": "FSD002",    
+        "title": "Frontend Development",
+        "description": "UI/UX",
+        "category": "FSD",
+        "image": "./FSD_Frontend.webp"
+    },
+    {
+        "id": "FSD003",    
+        "title": "Backend Development",
+        "description": "Database",
+        "category": "FSD",
+        "image": "./FSD_Backend.webp"
+    },
+    {
+        "id": "DS001",    
+        "title": "Data Science",
+        "description": "Data Analysis",
+        "category": "DS",
+        "image": "./DS_DataScience.webp"
+    },
+    {
+        "id": "DS002",    
+        "title": "Python",
+        "description": "Advanced Python",
+        "category": "DS",
+        "image": "./DS_Python.webp"
+    },
+    {
+        "id": "CS001",    
+        "title": "Cyber Security",
+        "description": "Basic Cyber Security",
+        "category": "CS",
+        "image": "./CS_CyberSecurity.webp"
+    }
+]
